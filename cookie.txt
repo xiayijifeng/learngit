@@ -1,0 +1,5 @@
+浏览器堆栈溢出，函数调用层数过深，递归过长
+cookie 中文乱码问题，保存时使用escape（），读取时使用unescape（）
+cookie无法跨域的问题
+cookie读取，document.cookie=escape(cookievalue); var mycookie = unescape(document.cookie);
+由于cookie是一个很长的字符串，所以通常配合字符串操作来使用

@@ -1,4 +1,7 @@
+﻿/*this
+ is a new
 
+*/
 // 弹框
 $.dialog = function(msg, opts) {
 	seajs.use(['/assets/js/weebox/weebox.js', 
